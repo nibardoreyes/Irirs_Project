@@ -14,7 +14,7 @@
         - name: Checkout repository
           uses: actions/setup-python@v2
           with: 
-            python-verions: 3.8
+            python-versions: 3.8
             
         - name: Install dependencies
           run: | 
